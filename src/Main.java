@@ -9,7 +9,6 @@ public class Main {
         System.out.println("Hello and welcome!");
         System.out.println("Hello world");
 
-        System.out.println("první úprava");
 
         // Press Ctrl+R or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
